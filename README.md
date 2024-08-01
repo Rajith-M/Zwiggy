@@ -53,8 +53,8 @@ target/
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/online-food-order.git
-    cd online-food-order
+    [git clone https://github.com/yourusername/online-food-order.git](https://github.com/Rajith-M/Zwiggy.git)
+    cd Zwiggy
     ```
 
 2. **Build the project**:
